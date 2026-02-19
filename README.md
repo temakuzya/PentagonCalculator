@@ -2,7 +2,7 @@
 
 ## English version
 
-### 🧮 Description
+###  Description
 A console application for calculating the **perimeter** and **area** of a regular pentagon.
 
 This program calculates geometric parameters of a regular pentagon based on the side length entered by the user.  
@@ -10,7 +10,7 @@ It supports two input modes: manual input from the keyboard and reading data fro
 
 ---
 
-### ⚙️ Features
+###  Features
 
 - Calculate perimeter of a regular pentagon:  
   **P = 5 · a**
@@ -25,14 +25,14 @@ It supports two input modes: manual input from the keyboard and reading data fro
 
 ---
 
-### 💻 Requirements
+###  Requirements
 
 - Python **3.8** or higher  
 - Windows OS (for automatic file opening)
 
 ---
 
-### 🚀 Installation & Running
+###  Installation & Running
 
 1. Clone or download this repository  
 2. Make sure Python is installed:
@@ -49,7 +49,7 @@ python PentagonCalculator.py
 
 ---
 
-### 📖 Usage Guide
+###  Usage Guide
 
 #### Main Menu
 
@@ -87,7 +87,7 @@ Enter **0** in the main menu to exit the program.
 
 ---
 
-### ⚠️ Error Messages
+###  Error Messages
 
 | Message | Meaning |
 |----------|----------|
@@ -99,7 +99,7 @@ Enter **0** in the main menu to exit the program.
 
 ---
 
-### 🧪 Examples
+###  Examples
 
 #### Console Input
 
@@ -138,13 +138,13 @@ Area = 43.01
 
 ---
 
-### 🧹 Code Style
+###  Code Style
 
 The code follows **PEP 8** standards and is formatted using **Black**.
 
 ---
 
-### 👤 Author
+###  Author
 
 **A.A. Kuzmin**  
 Year: 2026  
@@ -158,7 +158,7 @@ Contaсts: temakuzya.khv27@gmail.com
 
 ## Русская версия
 
-### 🧮 Описание
+###  Описание
 
 Консольное приложение для вычисления **периметра** и **площади** правильного пятиугольника.
 
@@ -167,7 +167,7 @@ Contaсts: temakuzya.khv27@gmail.com
 
 ---
 
-### ⚙️ Возможности
+###  Возможности
 
 - Вычисление периметра:  
   **P = 5 · a**
@@ -182,14 +182,14 @@ Contaсts: temakuzya.khv27@gmail.com
 
 ---
 
-### 💻 Требования
+###  Требования
 
 - Python **3.8** или выше  
 - ОС Windows (для автоматического открытия файла)
 
 ---
 
-### 🚀 Установка и запуск
+###  Установка и запуск
 
 1. Скачайте репозиторий  
 2. Проверьте установку Python:
@@ -206,7 +206,7 @@ python PentagonCalculator.py
 
 ---
 
-### 📖 Как пользоваться
+###  Как пользоваться
 
 #### Главное меню
 
@@ -244,7 +244,7 @@ python PentagonCalculator.py
 
 ---
 
-### ⚠️ Сообщения об ошибках
+###  Сообщения об ошибках
 
 | Сообщение | Значение |
 |------------|-----------|
@@ -256,7 +256,7 @@ python PentagonCalculator.py
 
 ---
 
-### 🧪 Примеры
+###  Примеры
 
 #### Консольный ввод
 
@@ -295,13 +295,13 @@ python PentagonCalculator.py
 
 ---
 
-### 🧹 Стиль кода
+###  Стиль кода
 
 Код соответствует стандарту **PEP 8** и отформатирован с помощью **Black**.
 
 ---
 
-### 👤 Автор
+###  Автор
 
 **А.А. Кузьмин**  
 Год: 2026  
